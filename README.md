@@ -31,7 +31,7 @@ The project successfully provided a reliable and efficient tool for comparing sh
     ```
 2. Run the script:
     ```bash
-    python shoe_scraper.py
+    (Sneakerse Price Comparison Script).py
     ```
 3. The extracted data will be saved in a `shoes_data.csv` file.
 
